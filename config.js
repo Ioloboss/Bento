@@ -134,8 +134,8 @@ const CONFIG = {
 					link: 'https://genesistls.com/series',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'J-Novel Club',
+					link: 'https://j-novel.club/calendar',
 				},
 			],
 		},
