@@ -108,7 +108,7 @@ const CONFIG = {
 					link: 'https://music.youtube.com/playlist?list=PL165F2F553EB99A95',
 				},
 				{
-					name: 'Nuero',
+					name: 'Neuro',
 					link: 'https://music.youtube.com/playlist?list=PLOEBIV1zsMI9oXXeEti-3AZtyz8u8Znw4',
 				},
 				{
