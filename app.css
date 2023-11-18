@@ -17,8 +17,8 @@
   --icon: 3vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: #3a3a3a; /* Foreground color */
-  --sfg: #494949; /* Sceondary Foreground color */
+  --fg: #b3b3b3; /* Foreground color */
+  --sfg: #b3b3b3; /* Sceondary Foreground color */
 
   /* Light Colors  */
   --accent: #a18158; /* Hover color */
@@ -40,8 +40,8 @@
   --cards: #23233d; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #2c292e; /* Secondary Foreground color */
+  --fg: #b3b3b3; /* Foreground color */
+  --sfg: #b3b3b3; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
