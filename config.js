@@ -135,7 +135,7 @@ const CONFIG = {
 				},
 				{
 					name: 'J-Novel Club',
-					link: 'https://j-novel.club/calendar',
+					link: 'https://j-novel.club/calendar?restrict=followed',
 				},
 			],
 		},
