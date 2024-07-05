@@ -130,8 +130,8 @@ const CONFIG = {
 					link: 'https://www.mangadex.org/titles/feed',
 				},
 				{
-					name: 'Genesis Translations',
-					link: 'https://genesistls.com/series',
+					name: 'Genesis Studio',
+					link: 'https://genesistudio.com/library/bookmarks',
 				},
 				{
 					name: 'J-Novel Club',
